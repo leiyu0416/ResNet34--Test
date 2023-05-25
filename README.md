@@ -71,4 +71,6 @@ def val():
 if __name__ == '__main__':
     val()
 ```
+## Results picture
 
+![image](https://github.com/leiyu0416/ResNet34--Test/blob/main/result.png)
